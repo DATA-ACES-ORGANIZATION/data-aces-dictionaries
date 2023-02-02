@@ -32,6 +32,9 @@
 | `Stateless operations` | new meaning |
 | `Mapping` | new meaning |
 | `Filtering` | new meaning |
+| `Update stream` | new meaning |
+| `KTable` | new meaning |
+| `new term` | new meaning |
 | `Stateful operations` | new meaning |
 | `new term` | new meaning |
 | `new term` | new meaning |
