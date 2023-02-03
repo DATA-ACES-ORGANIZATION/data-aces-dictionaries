@@ -8,3 +8,4 @@
 | `Slowly Changing Dimensions (SCD)` | add explanation |
 | `Change Data Capture (CDC)` | backend |
 | `Data Mesh` | backend |
+| `Data Contracts` | explanation |
