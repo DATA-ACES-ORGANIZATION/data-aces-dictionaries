@@ -13,6 +13,8 @@
 | `Topic retention` | Message retention is based on **time**, the **size of the message** or on **both** measurements. |
 | `Kafka Cluster` | In computer programming, a sentinel value (also referred to as a flag value, trip value, rogue value, signal value, or dummy data) is a special value in the context of an algorithm which uses its presence as a condition of termination, typically in a loop or recursive algorithm. |
 | `Broker` | new meaning |
+| `Storage layer` | new meaning |
+| `Compute layer` | new meaning |
 | `Kafka ZooKeeper` | new meaning |
 | `Replication` | new meaning |
 | `Producers` | new meaning |
