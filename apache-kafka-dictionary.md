@@ -14,6 +14,9 @@
 | `Kafka Cluster` | In computer programming, a sentinel value (also referred to as a flag value, trip value, rogue value, signal value, or dummy data) is a special value in the context of an algorithm which uses its presence as a condition of termination, typically in a loop or recursive algorithm. |
 | `Broker` | new meaning |
 | `Kafka ZooKeeper` | new meaning |
+| `Replication` | new meaning |
+| `Producers` | new meaning |
+| `Consumers` | new meaning |
 | `Kafka Connect` | new meaning |
 | `Source Connector` | new meaning |
 | `Sink Connector` | new meaning |
@@ -35,6 +38,7 @@
 | `Update stream` | new meaning |
 | `KTable` | new meaning |
 | `State store` | new meaning |
+| `new term` | new meaning |
 | `new term` | new meaning |
 | `new term` | new meaning |
 | `Stateful operations` | new meaning |
