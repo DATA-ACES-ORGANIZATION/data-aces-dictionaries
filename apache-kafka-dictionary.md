@@ -40,8 +40,8 @@
 | `Update stream` | new meaning |
 | `KTable` | new meaning |
 | `State store` | new meaning |
-| `Serialization.` | new meaning |
-| `Deserialization.` | new meaning |
+| `Serialization` | new meaning |
+| `Deserialization` | new meaning |
 | `new term` | new meaning |
 | `Stateful operations` | new meaning |
 | `new term` | new meaning |
