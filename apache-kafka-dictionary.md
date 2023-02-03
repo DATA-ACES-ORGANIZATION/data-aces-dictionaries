@@ -45,5 +45,6 @@
 | `Deserialization` | new meaning |
 | `SerDes` | new meaning |
 | `Stateful operations` | new meaning |
-| `new term` | new meaning |
-| `new term` | new meaning |
+| `Joins` | new meaning |
+| `Aggregations` | new meaning |
+| `Windowing` | new meaning |
