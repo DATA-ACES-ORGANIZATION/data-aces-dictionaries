@@ -30,6 +30,7 @@
 ## Kafka Streams
 | Term | Meaning |
 |     :---:      |     :---     |
+| `Bounded data` | new meaning |
 | `Unbounded data` | Continuous, never-ending data streams with no beginning or end. |
 | `Processor topology` | Indefinite iteration, in which the code block executes until some condition is met. With indefinite iteration, the number of times the loop is executed isn’t specified explicitly in advance. Rather, the designated block is executed repeatedly as long as some condition is met. |
 | `Event Streams` | Unbounded collection of event records |
@@ -42,7 +43,7 @@
 | `State store` | new meaning |
 | `Serialization` | new meaning |
 | `Deserialization` | new meaning |
-| `new term` | new meaning |
+| `SerDes` | new meaning |
 | `Stateful operations` | new meaning |
 | `new term` | new meaning |
 | `new term` | new meaning |
