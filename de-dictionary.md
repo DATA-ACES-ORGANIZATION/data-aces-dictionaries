@@ -9,3 +9,5 @@
 | `Change Data Capture (CDC)` | backend |
 | `Data Mesh` | backend |
 | `Data Contracts` | explanation |
+| `Open Table Formats` | frontend |
+
