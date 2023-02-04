@@ -12,4 +12,4 @@
 | `Open Table Formats` | frontend |
 | `Recovering Data Scientist` | Data Scientist who switched to a Data Engineering role. A person who is recovering from Data Science to become a Data Engineer. |
 | `Data Engineering Lifecycle` | backend |
-| `Downstream Data Consumers` | Downstream Data Consumers: stakeholders that consume data from Data Engineers. Analysts, Data Scientists, and Machine Learning Engineers represent Downstream Data Consumers. |
+| `Downstream Data Consumers` | Stakeholders that consume data from Data Engineers. Analysts, Data Scientists, and Machine Learning Engineers represent Downstream Data Consumers. |
