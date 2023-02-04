@@ -11,4 +11,6 @@
 | `Data Mesh` | backend |
 | `Data Contracts` | explanation |
 | `Open Table Formats` | frontend |
+| `Recovering Data Scientist` | Data Scientist who switched to a Data Engineering role. A person who is recovering from Data Science to become a Data Engineer. |
+
 
