@@ -1,2 +1,2 @@
-# data-aces-dictionaries
+# List of DATA ACES dictionaries:
 Terminology
