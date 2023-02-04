@@ -14,5 +14,5 @@
 | `Data Engineering Lifecycle` | backend |
 | `Downstream Data Consumers` | Stakeholders that consume data from Data Engineers. Analysts, Data Scientists, and Machine Learning Engineers represent Downstream Data Consumers. |
 | `Cloud-based solutions` | frontend |
-| `On-premise solutions.` | frontend |
+| `On-premise solutions` | frontend |
 
