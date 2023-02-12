@@ -6,3 +6,4 @@
 | `server` | backend |
 | `client` | frontend |
 | `Metadata` | Data about data |
+| `Programs` | Algorithms + Data Structures = Programs (Niklaus Wirth) |
