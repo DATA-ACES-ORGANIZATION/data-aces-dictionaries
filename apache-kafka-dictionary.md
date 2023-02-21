@@ -48,3 +48,7 @@
 | `Joins` | new meaning |
 | `Aggregations` | new meaning |
 | `Windowing` | new meaning |
+| `Tumbling window` | new meaning |
+| `Hopping window` | new meaning |
+| `Session window` | new meaning |
+| `Sliding window` | new meaning |
